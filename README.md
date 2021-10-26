@@ -1,5 +1,5 @@
 # Data-Driven Analysis of Mythes About Stroke Causes
-## A data based approach using Stroke Prediction data from 2021.
+## A data based approach using Stroke Prediction data from 2021
 A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes. A stroke is a medical emergency, and prompt treatment is crucial. Early action can reduce brain damage and other complications. The good news is that many fewer Americans die of stroke now than in the past. Effective treatments can also help prevent disability from stroke.
 
 <img src="https://www.researchgate.net/profile/Fabio-Chiodo-Grandi/publication/44599636/figure/fig1/AS:196042852179975@1423751666328/Follow-up-brain-CT-scans-of-two-stroke-patients-Two-examples-of-CT-scans-of-two-stroke.png" width="800px" height="auto">
