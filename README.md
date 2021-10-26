@@ -14,4 +14,4 @@ There are several mythes about stroke. I tested the validity of a three of them 
 2. "People living in city are at high risk of stroke?"
 3. "Smokers are more prone to stroke?"
 
-Lets go to my Medium blog post: [Data-Driven Analysis of Mythes About Stroke Causes](https://www.quora.com)
+Lets go to my Medium blog post: [Data-Driven Analysis of Mythes About Stroke Causes](https://medium.com/@sahika.betul/data-driven-analysis-of-mythes-about-stroke-causes-dd347899bba5)
