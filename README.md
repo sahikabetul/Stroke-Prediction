@@ -49,9 +49,8 @@ from sklearn.model_selection import GridSearchCV
 ```
 
 ## Files in the Repository
-**healthcare-dataset-stroke-data.csv:** the used dataset.
-
-**Stroke Predictions.ipynb:** the notebook of the project.
+- **healthcare-dataset-stroke-data.csv:** the used dataset.
+- **Stroke Predictions.ipynb:** the notebook of the project.
 
 ## Medium Blog Post
 Lets go to my Medium blog post: 
